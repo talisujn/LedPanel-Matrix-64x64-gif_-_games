@@ -1,17 +1,15 @@
 # LedPanel-Matrix-64x64-gif_&_games
 Snake and Minesweeper on a 64x64 LED Matrix Panel
-![Games](images/nome-da-imagem.jpg)
+
 
 ## Preview
-Images/WhatsApp Image 2025-02-17 at 4.09.19 PM.jpeg
-![mineSweeper](Images/WhatsApp Image 2025-02-17 at 4.09.19 PM.jpeg)
+
+![mineSweeper](Images/8.jpeg)
+![Games](Images/9.jpeg)
 
 ## Details
 
 This project features a 64x64 LED matrix panel where you can play the classic Snake and Minesweeper games. The games include three difficulty levels (Easy, Medium, and Hard) and a menu to switch between games and difficulty settings.
-
-
-
 
 ## Materials:
 
