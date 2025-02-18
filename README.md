@@ -3,7 +3,8 @@ Snake and Minesweeper on a 64x64 LED Matrix Panel
 ![Games](images/nome-da-imagem.jpg)
 
 ## Preview
-![WhatsApp Image 2025-02-17 at 4 08 31 PM (3)](https://github.com/user-attachments/assets/d40b6bfe-1912-43d2-aeb9-2f19855fb21a)
+Images/WhatsApp Image 2025-02-17 at 4.09.19 PM.jpeg
+![mineSweeper](Images/WhatsApp Image 2025-02-17 at 4.09.19 PM.jpeg)
 
 ## Details
 
