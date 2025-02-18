@@ -1,4 +1,4 @@
-# LedPanel-Matrix-64x64-gif_-_games
+# LedPanel-Matrix-64x64-gif_&_games
 Snake and Minesweeper on a 64x64 LED Matrix Panel
 ![Games](images/nome-da-imagem.jpg)
 
